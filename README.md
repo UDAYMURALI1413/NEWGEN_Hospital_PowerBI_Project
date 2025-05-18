@@ -33,6 +33,7 @@
 
 <h4>DASHBOARD : </h4>
 
-![image](https://github.com/user-attachments/assets/f85a04f3-8db6-43d2-8298-3d22a080781d)
+![image](https://github.com/user-attachments/assets/f80447e0-5c1f-40bc-a41f-47ca83f1239d)
+
 
      
